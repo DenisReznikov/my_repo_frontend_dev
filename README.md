@@ -1,2 +1,2 @@
-# my_repo_frontend_dev
-javascript test terraform repo
+# this is a dev javascript repo is for frontend developers.
+The infra was last modified by: Denis
